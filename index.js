@@ -13,7 +13,7 @@ function decrement() {
 }
 
 function save() {
-    if (count<0){
+    if (count<=0){
         countEl.textContent = 0
         return
     };
