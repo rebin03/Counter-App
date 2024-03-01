@@ -20,7 +20,7 @@ You can view a live demo of the Counter App [here](https://enchanting-choux-fbed
 
 3. Open `index.html` in your web browser.
 
-4. Use the  'INCREMENT' button to increment the counter.
+4. Use the  'INCREMENT' or 'DECREMENT' button to increment or decrement  the counter respectively.
    
 5. Press the "SAVE" button to save the counter entries and reset to zero.
 
